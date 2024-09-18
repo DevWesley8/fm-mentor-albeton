@@ -1,0 +1,11 @@
+ :root {
+    --yellow-bg: #FBFFA7;
+    --heading-text-color: #ff764d;
+    --green-bg: #b6ffc0;
+    --purple-bg: #d5b3ff;
+    --teal-bg: #b1c5ff;
+    --button-bg: #0000ff;
+    --primary-sans: Arial, Helvetica, sans-serif;
+    --fs-400: 1.125rem;
+    --fs-600: 1.5rem;
+ }
